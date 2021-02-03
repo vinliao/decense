@@ -3,7 +3,7 @@ Decense (deno license) allows you to generate a license with one `deno run` comm
 
 ## Steps to run
 1. Make sure Deno is installed
-2. Run `deno run --allow-write --allow-net https://deno.land/x/decense/main.js`
+2. Run `deno run --allow-write --allow-net https://deno.land/x/decense/main.ts`
 3. Pick your license and enter your name
 4. 🦕🎉
 
